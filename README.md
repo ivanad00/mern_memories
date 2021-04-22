@@ -4,20 +4,15 @@
 
 
 
-# Table of contents
-* [General info](#general-info)
-* [Technologies](#technologies)
-* [Deployment](#deployment)
-
-
 
 ## General info
 * The application was created using [this tutorial](https://www.youtube.com/watch?v=ngc9gnGgUdA). 
 * The data entered in the form are saved in the database and displayed as a post. 
 * Full-stack application
-
+* Edit, like and delete posts
 
 ## Technologies
+* MERN
 <div style="float: right">
 <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 <img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
@@ -29,6 +24,6 @@
 
 ## Deployment
 
-<img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/> [Click here](mern-memories2.netlify.app)
+<img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/> [Click here](mern-memories2.netlify.app) for backend
 
-<img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/> [Click here](https://city-posts.herokuapp.com/)
+<img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/> [Click here](https://city-posts.herokuapp.com/) for frontend
