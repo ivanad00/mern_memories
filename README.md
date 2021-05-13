@@ -26,4 +26,4 @@
 
 <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/> [Click here]() for backend(https://city-posts.herokuapp.com/)
 
-<img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/> [Click here](mern-memories2.netlify.app)
+<img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/> [Click here]() for backend(mern-memories2.netlify.app)
